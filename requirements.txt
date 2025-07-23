@@ -1,0 +1,9 @@
+fastmcp
+httpx
+psutil
+keyring
+pyperclip
+numpy
+matplotlib
+dnspython
+pillow
